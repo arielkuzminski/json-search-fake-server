@@ -1,16 +1,45 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
+  "hints": [
+      {
+          "id": "1",
+          "title": "Potęgi o wykładniku naturalnym",
+          "categoryText": "Matematyka - liczby i działania - potęgi",
+          "url": "link-do-konkretnego-zasobu-z-którego-prowadzi-podpowiedź"
+      },
+      {
+          "id": "2",
+          "title": "Pojęcia kluczowe",
+          "categoryText": "Język polski - literatura - starożytność - Antyk",
+          "url": "link-do-konkretnego-zasobu-z-którego-prowadzi-podpowiedź"
+      },
+      {
+          "id": "3",
+          "title": "Potęgi o wykładniku całkowitym ujemnym",
+          "categoryText": "Matematyka - liczby i działania - potęgi",
+          "url": "link-do-konkretnego-zasobu-z-którego-prowadzi-podpowiedź"
+      }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "results": [
+      {
+          "id": "1",
+          "title": "Potęgi o wykładniku naturalnym",
+          "categoryColor": "#00bcee",
+          "categoryText": "Matematyka - liczby i działania - potęgi",
+          "url": "link-do-konkretnego-zasobu-z-którego-prowadzi-podpowiedź"
+      },
+      {
+          "id": "2",
+          "title": "Pojęcia kluczowe",
+          "categoryColor": "#cccccc",
+          "categoryText": "Język polski - literatura - starożytność - Antyk",
+          "url": "link-do-konkretnego-zasobu-z-którego-prowadzi-podpowiedź"
+      },
+      {
+          "id": "3",
+          "title": "Potęgi o wykładniku całkowitym ujemnym",
+          "categoryColor": "#00bcee",
+          "categoryText": "Matematyka - liczby i działania - potęgi",
+          "url": "link-do-konkretnego-zasobu-z-którego-prowadzi-podpowiedź"
+      }
   ]
 }
